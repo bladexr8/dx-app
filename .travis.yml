@@ -19,4 +19,4 @@ script:
   - sfdx force:source:push -u ciorg
   - sfdx force:apex:test:run
   - sleep 4m
-- sfdx force:org:delete -u ciorg -p
+  - sfdx force:org:delete -u ciorg -p
