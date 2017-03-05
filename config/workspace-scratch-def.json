@@ -1,0 +1,10 @@
+{
+  "Company": "SPM  Company",
+  "Country": "AU",
+  "LastName": "Moss",
+  "Email": "stephen.moss@tquilaanz.com",
+  "Edition": "Developer",
+  "OrgPreferences" : {
+    "S1DesktopEnabled" : true
+  }
+}
